@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.507a3381.css",
-    "main.js": "/static/js/main.0091d6e2.js",
-    "index.html": "/index.html"
+    "main.css": "/Zach_Portfolio/static/css/main.507a3381.css",
+    "main.js": "/Zach_Portfolio/static/js/main.b0dc7824.js",
+    "index.html": "/Zach_Portfolio/index.html"
   },
   "entrypoints": [
     "static/css/main.507a3381.css",
-    "static/js/main.0091d6e2.js"
+    "static/js/main.b0dc7824.js"
   ]
 }
